@@ -41,3 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: HAT
+    uniqueID: 4112451195
+    locked: 0
